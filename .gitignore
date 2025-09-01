@@ -1,0 +1,6 @@
+bazel-*
+.vscode/
+*.o
+*.a
+*.out
+*.lock
